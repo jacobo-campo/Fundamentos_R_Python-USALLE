@@ -104,6 +104,14 @@ La metodología se basa en **aprender haciendo**, por lo que cada sesión inclui
 
 ---
 
+## 💻 Entornos de ejecución
+
+Para desarrollar los ejercicios del curso se utilizarán distintos entornos de ejecución en la nube y en el computador local.
+
+En esta sección se presentan las principales opciones para trabajar con **R** y **Python**, incluyendo enlaces a plataformas como Posit Cloud, Google Colab, Jupyter, Visual Studio Code Web, GitHub Codespaces, Kaggle y Binder.
+
+👉 [Ver entornos de ejecución](./Entornos)
+
 ## 📁 Organización del repositorio
 
 ```text
